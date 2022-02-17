@@ -1,0 +1,14 @@
+//Calculate a running sum
+//pseudocode
+
+Int sum
+In n1
+Print "Enter number" 
+Get input n1
+	IF input is +int
+total=sum+n1
+	
+	IF input is -int
+print sum
+
+Return -1
