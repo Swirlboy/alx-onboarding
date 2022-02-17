@@ -1,0 +1,6 @@
+//calculate the sum of squares of given input of numbers
+//Pseudo code
+print prompt "Input two numbers"
+Read num1 , num2
+Num1 squared *num2 squared
+Write answer
